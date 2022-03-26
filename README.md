@@ -1,3 +1,3 @@
-# Kaggle Training
+# AI Training
 
-collect notes and code about my Kaggle competition 
+collect notes and code about my AI Training
